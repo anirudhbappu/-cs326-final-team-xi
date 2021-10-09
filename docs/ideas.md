@@ -14,9 +14,14 @@ Idea: We will build a website where UMass students can look up for the most popu
 
 Our application is not realted to any existing application thaat I know of.
       
-Important Components: 1) there will be one post/poll for each game
+Important Components: 
+                      1) there will be one post/poll for each game
+
                       2) people will be able to communicate in the comment section below each post/poll
+                      
                       3) The games themselves will not be hosted on the website, but a download link or a link to their official websites will be included with each game
+                      
                       4) people can upvote the games they play, or add new ones that have not been added yet. This way we can rank which games are the most popular in campus
+                      
                       5) We will let people create their accounts (with umass email probably, if thats acceptable)
       
