@@ -1,5 +1,6 @@
 Team Name: Team-xi
 Application Name: UMass Gaming Community
+
 Team Overview: Anirudh Tale (github username: anirudhbappu)
                Kazi Sadman Zul Hasnain (github username: kzulhasnain)
                Kazi Zeedan Jul Kawnain (github username: kjulkawnain)
