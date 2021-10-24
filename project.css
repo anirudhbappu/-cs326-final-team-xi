@@ -1,0 +1,11 @@
+nav{
+    background-color: red;
+}
+
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 30%;
+}
